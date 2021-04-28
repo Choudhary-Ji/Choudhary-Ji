@@ -3,7 +3,7 @@
 
 ## I'm a Developer 
 - 🔭I'm Currently Working on FiveM Server Developer/PHP Website Developer And Discord Bot Developer
-- 📫You Can Contact Me On <img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" /> Discord ÇhðµÐhår¥ Jï#6179
+-You Can Contact Me On <img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" /> Discord ÇhðµÐhår¥ Jï#6179
 - 🥅2021 Goals : Contribute more to Open Source Projects
 
 ### Spotify Playing 🎧
