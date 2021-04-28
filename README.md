@@ -29,3 +29,7 @@
 <td align="center" style="padding=0;width=50%;"><img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Choudhary-Ji&layout=compact&hide=html" alt="Choudhary-Ji" /></td>
 </tr></table>
 <br>
+
+📈 My GitHub Stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
