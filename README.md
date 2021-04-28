@@ -1,7 +1,9 @@
-### Hi there 👋
+### Hey There,  I'm Choudhary- 👋
 
 <!--
 **Choudhary-Ji/Choudhary-Ji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a Developer 
+
 
 Here are some ideas to get you started:
 
