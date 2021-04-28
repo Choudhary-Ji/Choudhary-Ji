@@ -28,5 +28,5 @@
 
 📈 My GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Choudhary-Ji&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
-  <td align="center" style="padding=0;width=50%;"><img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Choudhary-Ji&layout=compact&hide=html" alt="Choudhary-Ji" /></td>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Choudhary-Ji&show_icons=true&theme=gotham" alt="Choudhary-Ji" />
+<td align="center" style="padding=0;width=50%;"><img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Choudhary-Ji&layout=compact&hide=html&theme=gotham" alt="Choudhary-Ji" /></td>
