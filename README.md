@@ -3,7 +3,7 @@
 
 ## I'm a Developer 
 - 🔭I'm Currently Working on FiveM Server Developer/PHP Website Developer And Discord Bot Developer
-- 💬Contact Me On Discord:- • ÇhðµÐhår¥ Ji •#0001
+- 💬Contact Me On Discord:- Choudhary Ji#0905
 - 🥅2021 Goals : Contribute more to Open Source Projects
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Choudhary-Ji.Choudhary-Ji)
