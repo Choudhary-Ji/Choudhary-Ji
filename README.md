@@ -1,6 +1,6 @@
 ### Hey There,  I'm Choudhary- 👋
 
-<a href="https://discord.gg/b94NvSyqjR"><<img height="20" src="https://image.flaticon.com/icons/png/512/2111/2111370.png" alt="website"/></a>
+<a href="https://discord.gg/b94NvSyqjR"><<img height="20" src="https://image.flaticon.com/icons/png/512/2111/2111370.png" alt="website"/>Join Discord</a>
 
 ## I'm a Developer 
 - 🔭I'm Currently Working on FiveM Server Developer/PHP Website Developer And Discord Bot Developer
