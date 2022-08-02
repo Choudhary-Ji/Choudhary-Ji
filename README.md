@@ -2,7 +2,6 @@
 
 
 ## I'm a Developer 
-- 🔭I'm Currently Working on FiveM Server Developer/PHP Website Developer And Discord Bot Developer
 - 💬Contact Me On Discord:- Chaudhary Ji#5656
 - 🥅2021 Goals : Contribute more to Open Source Projects
 
