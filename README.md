@@ -19,4 +19,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=choudhary-ji&show_icons=true&locale=en" alt="choudhary-ji" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=choudhary-ji&" alt="choudhary-ji" /></p>
